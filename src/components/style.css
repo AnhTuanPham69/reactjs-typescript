@@ -1,0 +1,18 @@
+/** @format */
+
+@import '~antd/dist/antd.css';
+.outer-infor {
+    background-image: url('../assets/images/bg-5.jpg');
+    /* Full height */
+    height: 100vh;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-login-form {
+    border-radius: 15px;
+    height: auto;
+    justify-content: 'center';
+}
